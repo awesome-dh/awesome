@@ -4,7 +4,7 @@
 
 *[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) Digital Humanities* is concerned with finding and linking anything which might make a DH person think 'oh! awesome'. This can be a tool, a library, a paper, presentation, website, or even a twitter account. The diversity of the DH community is its strength, so there aren't strict guidelines on what or what doesn't qualify. Just ask: is this [awesome](awesome.md)?
 
-Please add your own items! You can see our contribution guidelines [at the bottom of the list](#contributing)
+Please add your own items! You can see our contribution guidelines [at the bottom of the list](#contributing--we-need-your-help)
 
 # The List
 ### TOC
