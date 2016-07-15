@@ -5,13 +5,13 @@
 ## Table of Contents
 
 * [Data](#Data)
-* [Aggregators](#Aggregators)
-* [Geographical Databases](#Geographical-Databases)
-* [Software Tools](#Software-Tools)
-* [Topic Modelling and NLP](#Topic-Modelling-and-NLP)
-* [Visualisation](#Visualisation) 
-* [Papers / Monographs / Literature](#Papers-/-Monographs-/-Literature)
-* [Conferences](#Conferences)
+* [Aggregators](#aggregators)
+* [Geographical Databases](#geographical-databases)
+* [Software Tools](#software-tools)
+* [Topic Modelling and NLP](#topic-modelling-and-nlp)
+* [Visualisation](#visualisation) 
+* [Papers / Monographs / Literature](#papers--monographs--literature)
+* [Conferences](#conferences)
 
 
 *[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) Digital Humanities* is concerned with finding and linking anything which might make a DH person think 'oh! awesome'. This can be a tool, a library, a paper, presentation, website, or even a twitter account. The diversity of the DH community is its strength, so there aren't strict guidelines on what or what doesn't qualify. Just ask: is this [awesome](awesome.md)?
