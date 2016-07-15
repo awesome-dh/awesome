@@ -55,7 +55,7 @@ Please add your own items! You can see our contribution guidelines [at the botto
 
 
 # Contributing &mdash; We need your help!
-To contribute to the list, please see the [contributing.md](contributing.md) file. We do ask that you make **one change per request** and document what the link is and why it's awesome. Please also be aware of our [conduct.md](Code of Conduct).
+To contribute to the list, please see the [contributing.md](contributing.md) file. We do ask that you make **one change per request** and document what the link is and why it's awesome. Please also be aware of our [Code of Conduct](conduct.md).
 
 # Contact and License
 
