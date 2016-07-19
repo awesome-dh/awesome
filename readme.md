@@ -39,6 +39,7 @@ Please add your own items! You can see our contribution guidelines [at the botto
 * [CLTK](http://cltk.org/) &mdash; The Classical Language Toolkit
 * [Gensim](https://radimrehurek.com/gensim/) &mdash; Gensim Topic Modelling toolkit including word2vec, LSA, LDA (Python)
 * [Mallet](http://mallet.cs.umass.edu/topics.php) &mdash; Mallet Topic Modelling (Java)
+* [CoreNLP](http://stanfordnlp.github.io/CoreNLP/) &mdash; The Stanford Core NLP Toolkit
 
 ### Visualisation 
 
@@ -64,7 +65,8 @@ Please add your own items! You can see our contribution guidelines [at the botto
 ## Other Lists
 
  * [EADH Projects](http://eadh.org/projects) &mdash; European Association of Digital Humanities' representative works of European DH
-
+ * [DIRT Directory](http://dirtdirectory.org/) &mdash; The registry of digital research tools for scholarly use.
+ * 
 # Contributing &mdash; We need your help!
 To contribute to the list, please see the [contributing.md](contributing.md) file. We do ask that you make **one change per request** and document what the link is and why it's awesome. Please also be aware of our [Code of Conduct](conduct.md).
 
